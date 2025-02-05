@@ -68,7 +68,7 @@ This will:
 - Generate flashcards using GPT
 - Save the output in `flashcards_output/all_flashcards.json`
 
-### Output Format
+Output Format
 
 Each flashcard contains:
 
@@ -95,7 +95,7 @@ Example output:
 }
 ```
 
-#### Generate Flashcards for a single word:
+### Generate Flashcards for a single word:
 
 ```bash
 curl -X POST http://localhost:3000/generate-flashcard -H "Content-Type: application/json" -d '{"word": "casa"}'
@@ -106,7 +106,7 @@ This will:
 - Generate a flashcard for the word "casa"
 - Save the output in `flashcards_output/all_flashcards.json`
 
-#### Get all the flashcards from the `flashcards_output/all_flashcards.json` file:
+### Get all the flashcards from the `flashcards_output/all_flashcards.json` file:
 
 ```bash
 curl http://localhost:3000/flashcards
