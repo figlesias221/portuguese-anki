@@ -1,0 +1,4194 @@
+[
+  {
+    "word": "o",
+    "type": "[determiner]"
+  },
+  {
+    "word": "de",
+    "type": "[preposition]"
+  },
+  {
+    "word": "e",
+    "type": "[conjunction]"
+  },
+  {
+    "word": "que",
+    "type": "[pronoun]"
+  },
+  {
+    "word": "ser",
+    "type": "[verb]"
+  },
+  {
+    "word": "um",
+    "type": "[determiner]"
+  },
+  {
+    "word": "em",
+    "type": "[preposition]"
+  },
+  {
+    "word": "para",
+    "type": "[preposition]"
+  },
+  {
+    "word": "com",
+    "type": "[preposition]"
+  },
+  {
+    "word": "a",
+    "type": "[preposition]"
+  },
+  {
+    "word": "ter",
+    "type": "[verb]"
+  },
+  {
+    "word": "não",
+    "type": "[adverb]"
+  },
+  {
+    "word": "por",
+    "type": "[preposition]"
+  },
+  {
+    "word": "seu",
+    "type": "[determiner]"
+  },
+  {
+    "word": "se",
+    "type": "[pronoun]"
+  },
+  {
+    "word": "mais",
+    "type": "[adverb]"
+  },
+  {
+    "word": "estar",
+    "type": "[verb]"
+  },
+  {
+    "word": "como",
+    "type": "[preposition]"
+  },
+  {
+    "word": "este",
+    "type": "[determiner]"
+  },
+  {
+    "word": "poder",
+    "type": "[verb]"
+  },
+  {
+    "word": "ou",
+    "type": "[conjunction]"
+  },
+  {
+    "word": "todo",
+    "type": "[determiner]"
+  },
+  {
+    "word": "ano",
+    "type": "[noun]"
+  },
+  {
+    "word": "fazer",
+    "type": "[verb]"
+  },
+  {
+    "word": "mas",
+    "type": "[conjunction]"
+  },
+  {
+    "word": "ir",
+    "type": "[verb]"
+  },
+  {
+    "word": "muito",
+    "type": "[adverb]"
+  },
+  {
+    "word": "também",
+    "type": "[adverb]"
+  },
+  {
+    "word": "outro",
+    "type": "[determiner]"
+  },
+  {
+    "word": "ele",
+    "type": "[pronoun]"
+  },
+  {
+    "word": "já",
+    "type": "[adverb]"
+  },
+  {
+    "word": "dia",
+    "type": "[noun]"
+  },
+  {
+    "word": "novo",
+    "type": "[adjective]"
+  },
+  {
+    "word": "haver",
+    "type": "[verb]"
+  },
+  {
+    "word": "grande",
+    "type": "[adjective]"
+  },
+  {
+    "word": "ainda",
+    "type": "[adverb]"
+  },
+  {
+    "word": "sobre",
+    "type": "[preposition]"
+  },
+  {
+    "word": "até",
+    "type": "[preposition]"
+  },
+  {
+    "word": "dizer",
+    "type": "[verb]"
+  },
+  {
+    "word": "mesmo",
+    "type": "[adjective]"
+  },
+  {
+    "word": "pessoa",
+    "type": "[noun]"
+  },
+  {
+    "word": "entre",
+    "type": "[preposition]"
+  },
+  {
+    "word": "dever",
+    "type": "[verb]"
+  },
+  {
+    "word": "esse",
+    "type": "[determiner]"
+  },
+  {
+    "word": "nosso",
+    "type": "[determiner]"
+  },
+  {
+    "word": "caso",
+    "type": "[noun]"
+  },
+  {
+    "word": "eu",
+    "type": "[pronoun]"
+  },
+  {
+    "word": "dois",
+    "type": "[numeral]"
+  },
+  {
+    "word": "bom",
+    "type": "[adjective]"
+  },
+  {
+    "word": "dar",
+    "type": "[verb]"
+  },
+  {
+    "word": "algum",
+    "type": "[determiner]"
+  },
+  {
+    "word": "forma",
+    "type": "[noun]"
+  },
+  {
+    "word": "segundo",
+    "type": "[preposition]"
+  },
+  {
+    "word": "vez",
+    "type": "[noun]"
+  },
+  {
+    "word": "empresa",
+    "type": "[noun]"
+  },
+  {
+    "word": "primeiro",
+    "type": "[adjective]"
+  },
+  {
+    "word": "sem",
+    "type": "[preposition]"
+  },
+  {
+    "word": "quando",
+    "type": "[adverb]"
+  },
+  {
+    "word": "Portugal",
+    "type": "[proper noun]"
+  },
+  {
+    "word": "isso",
+    "type": "[pronoun]"
+  },
+  {
+    "word": "país",
+    "type": "[noun]"
+  },
+  {
+    "word": "tempo",
+    "type": "[noun]"
+  },
+  {
+    "word": "bem",
+    "type": "[adverb]"
+  },
+  {
+    "word": "só",
+    "type": "[adverb]"
+  },
+  {
+    "word": "serviço",
+    "type": "[noun]"
+  },
+  {
+    "word": "ficar",
+    "type": "[verb]"
+  },
+  {
+    "word": "nós",
+    "type": "[pronoun]"
+  },
+  {
+    "word": "querer",
+    "type": "[verb]"
+  },
+  {
+    "word": "trabalho",
+    "type": "[noun]"
+  },
+  {
+    "word": "público",
+    "type": "[adjective]"
+  },
+  {
+    "word": "onde",
+    "type": "[pronoun]"
+  },
+  {
+    "word": "estado",
+    "type": "[noun]"
+  },
+  {
+    "word": "parte",
+    "type": "[noun]"
+  },
+  {
+    "word": "assim",
+    "type": "[adverb]"
+  },
+  {
+    "word": "desde",
+    "type": "[preposition]"
+  },
+  {
+    "word": "passar",
+    "type": "[verb]"
+  },
+  {
+    "word": "cada",
+    "type": "[determiner]"
+  },
+  {
+    "word": "informação",
+    "type": "[noun]"
+  },
+  {
+    "word": "último",
+    "type": "[adjective]"
+  },
+  {
+    "word": "sempre",
+    "type": "[adverb]"
+  },
+  {
+    "word": "hoje",
+    "type": "[adverb]"
+  },
+  {
+    "word": "depois",
+    "type": "[adverb]"
+  },
+  {
+    "word": "presidente",
+    "type": "[noun]"
+  },
+  {
+    "word": "durante",
+    "type": "[preposition]"
+  },
+  {
+    "word": "vida",
+    "type": "[noun]"
+  },
+  {
+    "word": "área",
+    "type": "[noun]"
+  },
+  {
+    "word": "apresentar",
+    "type": "[verb]"
+  },
+  {
+    "word": "porque",
+    "type": "[conjunction]"
+  },
+  {
+    "word": "ver",
+    "type": "[verb]"
+  },
+  {
+    "word": "social",
+    "type": "[adjective]"
+  },
+  {
+    "word": "apenas",
+    "type": "[adverb]"
+  },
+  {
+    "word": "quem",
+    "type": "[pronoun]"
+  },
+  {
+    "word": "qualquer",
+    "type": "[determiner]"
+  },
+  {
+    "word": "além",
+    "type": "[adverb]"
+  },
+  {
+    "word": "qual",
+    "type": "[pronoun]"
+  },
+  {
+    "word": "mês",
+    "type": "[noun]"
+  },
+  {
+    "word": "após",
+    "type": "[preposition]"
+  },
+  {
+    "word": "chegar",
+    "type": "[verb]"
+  },
+  {
+    "word": "meu",
+    "type": "[determiner]"
+  },
+  {
+    "word": "saber",
+    "type": "[verb]"
+  },
+  {
+    "word": "milhão",
+    "type": "[numeral]"
+  },
+  {
+    "word": "vir",
+    "type": "[verb]"
+  },
+  {
+    "word": "realizar",
+    "type": "[verb]"
+  },
+  {
+    "word": "número",
+    "type": "[noun]"
+  },
+  {
+    "word": "receber",
+    "type": "[verb]"
+  },
+  {
+    "word": "momento",
+    "type": "[noun]"
+  },
+  {
+    "word": "cidade",
+    "type": "[noun]"
+  },
+  {
+    "word": "casa",
+    "type": "[noun]"
+  },
+  {
+    "word": "português",
+    "type": "[adjective]"
+  },
+  {
+    "word": "permitir",
+    "type": "[verb]"
+  },
+  {
+    "word": "Lisboa",
+    "type": "[proper noun]"
+  },
+  {
+    "word": "valor",
+    "type": "[noun]"
+  },
+  {
+    "word": "acordo",
+    "type": "[noun]"
+  },
+  {
+    "word": "local",
+    "type": "[noun]"
+  },
+  {
+    "word": "agora",
+    "type": "[adverb]"
+  },
+  {
+    "word": "afirmar",
+    "type": "[verb]"
+  },
+  {
+    "word": "mil",
+    "type": "[numeral]"
+  },
+  {
+    "word": "três",
+    "type": "[numeral]"
+  },
+  {
+    "word": "processo",
+    "type": "[noun]"
+  },
+  {
+    "word": "medida",
+    "type": "[noun]"
+  },
+  {
+    "word": "mundo",
+    "type": "[noun]"
+  },
+  {
+    "word": "encontrar",
+    "type": "[verb]"
+  },
+  {
+    "word": "tudo",
+    "type": "[pronoun]"
+  },
+  {
+    "word": "através",
+    "type": "[adverb]"
+  },
+  {
+    "word": "pouco",
+    "type": "[adverb]"
+  },
+  {
+    "word": "próximo",
+    "type": "[adjective]"
+  },
+  {
+    "word": "pequeno",
+    "type": "[adjective]"
+  },
+  {
+    "word": "situação",
+    "type": "[noun]"
+  },
+  {
+    "word": "Brasil",
+    "type": "[proper noun]"
+  },
+  {
+    "word": "sistema",
+    "type": "[noun]"
+  },
+  {
+    "word": "deixar",
+    "type": "[verb]"
+  },
+  {
+    "word": "criar",
+    "type": "[verb]"
+  },
+  {
+    "word": "contar",
+    "type": "[verb]"
+  },
+  {
+    "word": "final",
+    "type": "[noun]"
+  },
+  {
+    "word": "dado",
+    "type": "[noun]"
+  },
+  {
+    "word": "nível",
+    "type": "[noun]"
+  },
+  {
+    "word": "meio",
+    "type": "[noun]"
+  },
+  {
+    "word": "São",
+    "type": "[proper noun]"
+  },
+  {
+    "word": "pandemia",
+    "type": "[noun]"
+  },
+  {
+    "word": "contra",
+    "type": "[preposition]"
+  },
+  {
+    "word": "possível",
+    "type": "[adjective]"
+  },
+  {
+    "word": "grupo",
+    "type": "[noun]"
+  },
+  {
+    "word": "mercado",
+    "type": "[noun]"
+  },
+  {
+    "word": "ela",
+    "type": "[pronoun]"
+  },
+  {
+    "word": "levar",
+    "type": "[verb]"
+  },
+  {
+    "word": "governo",
+    "type": "[noun]"
+  },
+  {
+    "word": "saúde",
+    "type": "[noun]"
+  },
+  {
+    "word": "resultado",
+    "type": "[noun]"
+  },
+  {
+    "word": "semana",
+    "type": "[noun]"
+  },
+  {
+    "word": "começar",
+    "type": "[verb]"
+  },
+  {
+    "word": "espaço",
+    "type": "[noun]"
+  },
+  {
+    "word": "conseguir",
+    "type": "[verb]"
+  },
+  {
+    "word": "nem",
+    "type": "[conjunction]"
+  },
+  {
+    "word": "ponto",
+    "type": "[noun]"
+  },
+  {
+    "word": "importante",
+    "type": "[adjective]"
+  },
+  {
+    "word": "produto",
+    "type": "[noun]"
+  },
+  {
+    "word": "partir",
+    "type": "[verb]"
+  },
+  {
+    "word": "continuar",
+    "type": "[verb]"
+  },
+  {
+    "word": "direito",
+    "type": "[noun]"
+  },
+  {
+    "word": "nacional",
+    "type": "[adjective]"
+  },
+  {
+    "word": "próprio",
+    "type": "[adjective]"
+  },
+  {
+    "word": "falar",
+    "type": "[verb]"
+  },
+  {
+    "word": "rede",
+    "type": "[noun]"
+  },
+  {
+    "word": "hora",
+    "type": "[noun]"
+  },
+  {
+    "word": "eles",
+    "type": "[pronoun]"
+  },
+  {
+    "word": "programa",
+    "type": "[noun]"
+  },
+  {
+    "word": "antes",
+    "type": "[adverb]"
+  },
+  {
+    "word": "cerca",
+    "type": "[adverb]"
+  },
+  {
+    "word": "relação",
+    "type": "[noun]"
+  },
+  {
+    "word": "profissional",
+    "type": "[noun]"
+  },
+  {
+    "word": "região",
+    "type": "[noun]"
+  },
+  {
+    "word": "menos",
+    "type": "[adverb]"
+  },
+  {
+    "word": "utilizar",
+    "type": "[verb]"
+  },
+  {
+    "word": "jogo",
+    "type": "[noun]"
+  },
+  {
+    "word": "família",
+    "type": "[noun]"
+  },
+  {
+    "word": "lugar",
+    "type": "[noun]"
+  },
+  {
+    "word": "fim",
+    "type": "[noun]"
+  },
+  {
+    "word": "considerar",
+    "type": "[verb]"
+  },
+  {
+    "word": "Paulo",
+    "type": "[proper noun]"
+  },
+  {
+    "word": "acontecer",
+    "type": "[verb]"
+  },
+  {
+    "word": "existir",
+    "type": "[verb]"
+  },
+  {
+    "word": "aqui",
+    "type": "[adverb]"
+  },
+  {
+    "word": "conta",
+    "type": "[noun]"
+  },
+  {
+    "word": "Saúde",
+    "type": "[proper noun]"
+  },
+  {
+    "word": "projecto",
+    "type": "[noun]"
+  },
+  {
+    "word": "problema",
+    "type": "[noun]"
+  },
+  {
+    "word": "período",
+    "type": "[noun]"
+  },
+  {
+    "word": "conhecer",
+    "type": "[verb]"
+  },
+  {
+    "word": "necessário",
+    "type": "[adjective]"
+  },
+  {
+    "word": "usar",
+    "type": "[verb]"
+  },
+  {
+    "word": "apoio",
+    "type": "[noun]"
+  },
+  {
+    "word": "principal",
+    "type": "[adjective]"
+  },
+  {
+    "word": "precisar",
+    "type": "[verb]"
+  },
+  {
+    "word": "seguir",
+    "type": "[verb]"
+  },
+  {
+    "word": "acesso",
+    "type": "[noun]"
+  },
+  {
+    "word": "equipa",
+    "type": "[noun]"
+  },
+  {
+    "word": "criança",
+    "type": "[noun]"
+  },
+  {
+    "word": "disponível",
+    "type": "[adjective]"
+  },
+  {
+    "word": "exemplo",
+    "type": "[noun]"
+  },
+  {
+    "word": "cliente",
+    "type": "[noun]"
+  },
+  {
+    "word": "longo",
+    "type": "[noun]"
+  },
+  {
+    "word": "decisão",
+    "type": "[noun]"
+  },
+  {
+    "word": "trabalhar",
+    "type": "[verb]"
+  },
+  {
+    "word": "coisa",
+    "type": "[noun]"
+  },
+  {
+    "word": "manter",
+    "type": "[verb]"
+  },
+  {
+    "word": "projeto",
+    "type": "[noun]"
+  },
+  {
+    "word": "desenvolver",
+    "type": "[verb]"
+  },
+  {
+    "word": "lado",
+    "type": "[noun]"
+  },
+  {
+    "word": "população",
+    "type": "[noun]"
+  },
+  {
+    "word": "passado",
+    "type": "[adjective]"
+  },
+  {
+    "word": "tipo",
+    "type": "[noun]"
+  },
+  {
+    "word": "condição",
+    "type": "[noun]"
+  },
+  {
+    "word": "ação",
+    "type": "[noun]"
+  },
+  {
+    "word": "tanto",
+    "type": "[adverb]"
+  },
+  {
+    "word": "solução",
+    "type": "[noun]"
+  },
+  {
+    "word": "presente",
+    "type": "[adjective]"
+  },
+  {
+    "word": "desenvolvimento",
+    "type": "[noun]"
+  },
+  {
+    "word": "incluir",
+    "type": "[verb]"
+  },
+  {
+    "word": "alto",
+    "type": "[adjective]"
+  },
+  {
+    "word": "mulher",
+    "type": "[noun]"
+  },
+  {
+    "word": "voltar",
+    "type": "[verb]"
+  },
+  {
+    "word": "garantir",
+    "type": "[verb]"
+  },
+  {
+    "word": "necessidade",
+    "type": "[noun]"
+  },
+  {
+    "word": "obra",
+    "type": "[noun]"
+  },
+  {
+    "word": "estudo",
+    "type": "[noun]"
+  },
+  {
+    "word": "segurança",
+    "type": "[noun]"
+  },
+  {
+    "word": "ajudar",
+    "type": "[verb]"
+  },
+  {
+    "word": "tal",
+    "type": "[determiner]"
+  },
+  {
+    "word": "jovem",
+    "type": "[noun]"
+  },
+  {
+    "word": "você",
+    "type": "[pronoun]"
+  },
+  {
+    "word": "município",
+    "type": "[noun]"
+  },
+  {
+    "word": "início",
+    "type": "[noun]"
+  },
+  {
+    "word": "homem",
+    "type": "[noun]"
+  },
+  {
+    "word": "abrir",
+    "type": "[verb]"
+  },
+  {
+    "word": "qualidade",
+    "type": "[noun]"
+  },
+  {
+    "word": "questão",
+    "type": "[noun]"
+  },
+  {
+    "word": "enquanto",
+    "type": "[adverb]"
+  },
+  {
+    "word": "euro",
+    "type": "[noun]"
+  },
+  {
+    "word": "então",
+    "type": "[adverb]"
+  },
+  {
+    "word": "actividade",
+    "type": "[noun]"
+  },
+  {
+    "word": "viver",
+    "type": "[verb]"
+  },
+  {
+    "word": "história",
+    "type": "[noun]"
+  },
+  {
+    "word": "formação",
+    "type": "[noun]"
+  },
+  {
+    "word": "aluno",
+    "type": "[noun]"
+  },
+  {
+    "word": "vários",
+    "type": "[determiner]"
+  },
+  {
+    "word": "ideia",
+    "type": "[noun]"
+  },
+  {
+    "word": "risco",
+    "type": "[noun]"
+  },
+  {
+    "word": "mostrar",
+    "type": "[verb]"
+  },
+  {
+    "word": "escola",
+    "type": "[noun]"
+  },
+  {
+    "word": "entrar",
+    "type": "[verb]"
+  },
+  {
+    "word": "pensar",
+    "type": "[verb]"
+  },
+  {
+    "word": "recurso",
+    "type": "[noun]"
+  },
+  {
+    "word": "total",
+    "type": "[noun]"
+  },
+  {
+    "word": "quatro",
+    "type": "[numeral]"
+  },
+  {
+    "word": "gestão",
+    "type": "[noun]"
+  },
+  {
+    "word": "colocar",
+    "type": "[verb]"
+  },
+  {
+    "word": "site",
+    "type": "[noun]"
+  },
+  {
+    "word": "político",
+    "type": "[adjective]"
+  },
+  {
+    "word": "doença",
+    "type": "[noun]"
+  },
+  {
+    "word": "nunca",
+    "type": "[adverb]"
+  },
+  {
+    "word": "internacional",
+    "type": "[adjective]"
+  },
+  {
+    "word": "nome",
+    "type": "[noun]"
+  },
+  {
+    "word": "água",
+    "type": "[noun]"
+  },
+  {
+    "word": "morte",
+    "type": "[noun]"
+  },
+  {
+    "word": "explicar",
+    "type": "[verb]"
+  },
+  {
+    "word": "quanto",
+    "type": "[adverb]"
+  },
+  {
+    "word": "técnico",
+    "type": "[adjective]"
+  },
+  {
+    "word": "isto",
+    "type": "[pronoun]"
+  },
+  {
+    "word": "responsável",
+    "type": "[adjective]"
+  },
+  {
+    "word": "base",
+    "type": "[noun]"
+  },
+  {
+    "word": "utilização",
+    "type": "[noun]"
+  },
+  {
+    "word": "Porto",
+    "type": "[proper noun]"
+  },
+  {
+    "word": "instituição",
+    "type": "[noun]"
+  },
+  {
+    "word": "tão",
+    "type": "[adverb]"
+  },
+  {
+    "word": "artigo",
+    "type": "[noun]"
+  },
+  {
+    "word": "atividade",
+    "type": "[noun]"
+  },
+  {
+    "word": "confirmar",
+    "type": "[verb]"
+  },
+  {
+    "word": "pois",
+    "type": "[conjunction]"
+  },
+  {
+    "word": "tomar",
+    "type": "[verb]"
+  },
+  {
+    "word": "negócio",
+    "type": "[noun]"
+  },
+  {
+    "word": "Rio",
+    "type": "[proper noun]"
+  },
+  {
+    "word": "experiência",
+    "type": "[noun]"
+  },
+  {
+    "word": "único",
+    "type": "[adjective]"
+  },
+  {
+    "word": "quase",
+    "type": "[adverb]"
+  },
+  {
+    "word": "função",
+    "type": "[noun]"
+  },
+  {
+    "word": "entanto",
+    "type": "[noun]"
+  },
+  {
+    "word": "gente",
+    "type": "[noun]"
+  },
+  {
+    "word": "acabar",
+    "type": "[verb]"
+  },
+  {
+    "word": "informar",
+    "type": "[verb]"
+  },
+  {
+    "word": "produção",
+    "type": "[noun]"
+  },
+  {
+    "word": "conjunto",
+    "type": "[noun]"
+  },
+  {
+    "word": "zona",
+    "type": "[noun]"
+  },
+  {
+    "word": "ocorrer",
+    "type": "[verb]"
+  },
+  {
+    "word": "apesar",
+    "type": "[adverb]"
+  },
+  {
+    "word": "várias",
+    "type": "[determiner]"
+  },
+  {
+    "word": "iniciativa",
+    "type": "[noun]"
+  },
+  {
+    "word": "aumentar",
+    "type": "[verb]"
+  },
+  {
+    "word": "unidade",
+    "type": "[noun]"
+  },
+  {
+    "word": "futuro",
+    "type": "[noun]"
+  },
+  {
+    "word": "pretender",
+    "type": "[verb]"
+  },
+  {
+    "word": "objectivo",
+    "type": "[noun]"
+  },
+  {
+    "word": "organização",
+    "type": "[noun]"
+  },
+  {
+    "word": "utilizador",
+    "type": "[noun]"
+  },
+  {
+    "word": "brasileiro",
+    "type": "[adjective]"
+  },
+  {
+    "word": "novembro",
+    "type": "[noun]"
+  },
+  {
+    "word": "preço",
+    "type": "[noun]"
+  },
+  {
+    "word": "referir",
+    "type": "[verb]"
+  },
+  {
+    "word": "pedir",
+    "type": "[verb]"
+  },
+  {
+    "word": "junto",
+    "type": "[adverb]"
+  },
+  {
+    "word": "tentar",
+    "type": "[verb]"
+  },
+  {
+    "word": "dentro",
+    "type": "[adverb]"
+  },
+  {
+    "word": "diferente",
+    "type": "[adjective]"
+  },
+  {
+    "word": "aquele",
+    "type": "[determiner]"
+  },
+  {
+    "word": "proposta",
+    "type": "[noun]"
+  },
+  {
+    "word": "nada",
+    "type": "[pronoun]"
+  },
+  {
+    "word": "divulgar",
+    "type": "[verb]"
+  },
+  {
+    "word": "médico",
+    "type": "[noun]"
+  },
+  {
+    "word": "evento",
+    "type": "[noun]"
+  },
+  {
+    "word": "cinco",
+    "type": "[numeral]"
+  },
+  {
+    "word": "uma",
+    "type": "[determiner]"
+  },
+  {
+    "word": "perder",
+    "type": "[verb]"
+  },
+  {
+    "word": "parecer",
+    "type": "[verb]"
+  },
+  {
+    "word": "efeito",
+    "type": "[noun]"
+  },
+  {
+    "word": "sentido",
+    "type": "[noun]"
+  },
+  {
+    "word": "sair",
+    "type": "[verb]"
+  },
+  {
+    "word": "livro",
+    "type": "[noun]"
+  },
+  {
+    "word": "investigação",
+    "type": "[noun]"
+  },
+  {
+    "word": "imagem",
+    "type": "[noun]"
+  },
+  {
+    "word": "João",
+    "type": "[proper noun]"
+  },
+  {
+    "word": "devido",
+    "type": "[adverb]"
+  },
+  {
+    "word": "equipe",
+    "type": "[noun]"
+  },
+  {
+    "word": "esperar",
+    "type": "[verb]"
+  },
+  {
+    "word": "financeiro",
+    "type": "[adjective]"
+  },
+  {
+    "word": "centro",
+    "type": "[noun]"
+  },
+  {
+    "word": "plano",
+    "type": "[noun]"
+  },
+  {
+    "word": "causa",
+    "type": "[noun]"
+  },
+  {
+    "word": "resposta",
+    "type": "[noun]"
+  },
+  {
+    "word": "modo",
+    "type": "[noun]"
+  },
+  {
+    "word": "aumento",
+    "type": "[noun]"
+  },
+  {
+    "word": "tornar",
+    "type": "[verb]"
+  },
+  {
+    "word": "anterior",
+    "type": "[adjective]"
+  },
+  {
+    "word": "fase",
+    "type": "[noun]"
+  },
+  {
+    "word": "publicar",
+    "type": "[verb]"
+  },
+  {
+    "word": "capacidade",
+    "type": "[noun]"
+  },
+  {
+    "word": "prazo",
+    "type": "[noun]"
+  },
+  {
+    "word": "equipamento",
+    "type": "[noun]"
+  },
+  {
+    "word": "nenhum",
+    "type": "[determiner]"
+  },
+  {
+    "word": "procurar",
+    "type": "[verb]"
+  },
+  {
+    "word": "participar",
+    "type": "[verb]"
+  },
+  {
+    "word": "obter",
+    "type": "[verb]"
+  },
+  {
+    "word": "representar",
+    "type": "[verb]"
+  },
+  {
+    "word": "oportunidade",
+    "type": "[noun]"
+  },
+  {
+    "word": "ganhar",
+    "type": "[verb]"
+  },
+  {
+    "word": "modelo",
+    "type": "[noun]"
+  },
+  {
+    "word": "especial",
+    "type": "[adjective]"
+  },
+  {
+    "word": "anunciar",
+    "type": "[verb]"
+  },
+  {
+    "word": "março",
+    "type": "[noun]"
+  },
+  {
+    "word": "política",
+    "type": "[noun]"
+  },
+  {
+    "word": "edição",
+    "type": "[noun]"
+  },
+  {
+    "word": "facto",
+    "type": "[noun]"
+  },
+  {
+    "word": "documento",
+    "type": "[noun]"
+  },
+  {
+    "word": "outubro",
+    "type": "[noun]"
+  },
+  {
+    "word": "marca",
+    "type": "[noun]"
+  },
+  {
+    "word": "taxa",
+    "type": "[noun]"
+  },
+  {
+    "word": "venda",
+    "type": "[noun]"
+  },
+  {
+    "word": "pessoal",
+    "type": "[adjective]"
+  },
+  {
+    "word": "tema",
+    "type": "[noun]"
+  },
+  {
+    "word": "entidade",
+    "type": "[noun]"
+  },
+  {
+    "word": "prever",
+    "type": "[verb]"
+  },
+  {
+    "word": "objetivo",
+    "type": "[noun]"
+  },
+  {
+    "word": "pagar",
+    "type": "[verb]"
+  },
+  {
+    "word": "investimento",
+    "type": "[noun]"
+  },
+  {
+    "word": "ministro",
+    "type": "[noun]"
+  },
+  {
+    "word": "linha",
+    "type": "[noun]"
+  },
+  {
+    "word": "alteração",
+    "type": "[noun]"
+  },
+  {
+    "word": "atingir",
+    "type": "[verb]"
+  },
+  {
+    "word": "frente",
+    "type": "[noun]"
+  },
+  {
+    "word": "junho",
+    "type": "[noun]"
+  },
+  {
+    "word": "lei",
+    "type": "[noun]"
+  },
+  {
+    "word": "filho",
+    "type": "[noun]"
+  },
+  {
+    "word": "economia",
+    "type": "[noun]"
+  },
+  {
+    "word": "aplicação",
+    "type": "[noun]"
+  },
+  {
+    "word": "pagamento",
+    "type": "[noun]"
+  },
+  {
+    "word": "crise",
+    "type": "[noun]"
+  },
+  {
+    "word": "conhecimento",
+    "type": "[noun]"
+  },
+  {
+    "word": "noite",
+    "type": "[noun]"
+  },
+  {
+    "word": "Europa",
+    "type": "[proper noun]"
+  },
+  {
+    "word": "registrar",
+    "type": "[verb]"
+  },
+  {
+    "word": "fora",
+    "type": "[adverb]"
+  },
+  {
+    "word": "geral",
+    "type": "[adjective]"
+  },
+  {
+    "word": "data",
+    "type": "[noun]"
+  },
+  {
+    "word": "curso",
+    "type": "[noun]"
+  },
+  {
+    "word": "José",
+    "type": "[proper noun]"
+  },
+  {
+    "word": "decorrer",
+    "type": "[verb]"
+  },
+  {
+    "word": "evitar",
+    "type": "[verb]"
+  },
+  {
+    "word": "vítima",
+    "type": "[noun]"
+  },
+  {
+    "word": "pedido",
+    "type": "[noun]"
+  },
+  {
+    "word": "comunicação",
+    "type": "[noun]"
+  },
+  {
+    "word": "sociedade",
+    "type": "[noun]"
+  },
+  {
+    "word": "prática",
+    "type": "[noun]"
+  },
+  {
+    "word": "setembro",
+    "type": "[noun]"
+  },
+  {
+    "word": "uso",
+    "type": "[noun]"
+  },
+  {
+    "word": "professor",
+    "type": "[noun]"
+  },
+  {
+    "word": "promover",
+    "type": "[verb]"
+  },
+  {
+    "word": "membro",
+    "type": "[noun]"
+  },
+  {
+    "word": "domingo",
+    "type": "[noun]"
+  },
+  {
+    "word": "marcar",
+    "type": "[verb]"
+  },
+  {
+    "word": "indicar",
+    "type": "[verb]"
+  },
+  {
+    "word": "tratar",
+    "type": "[verb]"
+  },
+  {
+    "word": "capital",
+    "type": "[noun]"
+  },
+  {
+    "word": "achar",
+    "type": "[verb]"
+  },
+  {
+    "word": "concelho",
+    "type": "[noun]"
+  },
+  {
+    "word": "clube",
+    "type": "[noun]"
+  },
+  {
+    "word": "antigo",
+    "type": "[adjective]"
+  },
+  {
+    "word": "económico",
+    "type": "[adjective]"
+  },
+  {
+    "word": "integrar",
+    "type": "[verb]"
+  },
+  {
+    "word": "campanha",
+    "type": "[noun]"
+  },
+  {
+    "word": "forte",
+    "type": "[adjective]"
+  },
+  {
+    "word": "pai",
+    "type": "[noun]"
+  },
+  {
+    "word": "cujo",
+    "type": "[determiner]"
+  },
+  {
+    "word": "prova",
+    "type": "[noun]"
+  },
+  {
+    "word": "abril",
+    "type": "[noun]"
+  },
+  {
+    "word": "destacar",
+    "type": "[verb]"
+  },
+  {
+    "word": "chamar",
+    "type": "[verb]"
+  },
+  {
+    "word": "sessão",
+    "type": "[noun]"
+  },
+  {
+    "word": "conteúdo",
+    "type": "[noun]"
+  },
+  {
+    "word": "europeu",
+    "type": "[adjective]"
+  },
+  {
+    "word": "comunidade",
+    "type": "[noun]"
+  },
+  {
+    "word": "custo",
+    "type": "[noun]"
+  },
+  {
+    "word": "elemento",
+    "type": "[noun]"
+  },
+  {
+    "word": "jogador",
+    "type": "[noun]"
+  },
+  {
+    "word": "determinar",
+    "type": "[verb]"
+  },
+  {
+    "word": "contrato",
+    "type": "[noun]"
+  },
+  {
+    "word": "papel",
+    "type": "[noun]"
+  },
+  {
+    "word": "lá",
+    "type": "[adverb]"
+  },
+  {
+    "word": "candidato",
+    "type": "[noun]"
+  },
+  {
+    "word": "sábado",
+    "type": "[noun]"
+  },
+  {
+    "word": "acção",
+    "type": "[noun]"
+  },
+  {
+    "word": "paciente",
+    "type": "[noun]"
+  },
+  {
+    "word": "positivo",
+    "type": "[adjective]"
+  },
+  {
+    "word": "maio",
+    "type": "[noun]"
+  },
+  {
+    "word": "interesse",
+    "type": "[noun]"
+  },
+  {
+    "word": "oferecer",
+    "type": "[verb]"
+  },
+  {
+    "word": "operação",
+    "type": "[noun]"
+  },
+  {
+    "word": "ambiente",
+    "type": "[noun]"
+  },
+  {
+    "word": "participação",
+    "type": "[noun]"
+  },
+  {
+    "word": "dezembro",
+    "type": "[noun]"
+  },
+  {
+    "word": "construção",
+    "type": "[noun]"
+  },
+  {
+    "word": "decidir",
+    "type": "[verb]"
+  },
+  {
+    "word": "veículo",
+    "type": "[noun]"
+  },
+  {
+    "word": "julho",
+    "type": "[noun]"
+  },
+  {
+    "word": "diversos",
+    "type": "[determiner]"
+  },
+  {
+    "word": "ensino",
+    "type": "[noun]"
+  },
+  {
+    "word": "acompanhar",
+    "type": "[verb]"
+  },
+  {
+    "word": "intervenção",
+    "type": "[noun]"
+  },
+  {
+    "word": "mão",
+    "type": "[noun]"
+  },
+  {
+    "word": "energia",
+    "type": "[noun]"
+  },
+  {
+    "word": "razão",
+    "type": "[noun]"
+  },
+  {
+    "word": "presença",
+    "type": "[noun]"
+  },
+  {
+    "word": "maioria",
+    "type": "[noun]"
+  },
+  {
+    "word": "sentir",
+    "type": "[verb]"
+  },
+  {
+    "word": "trabalhador",
+    "type": "[noun]"
+  },
+  {
+    "word": "revelar",
+    "type": "[verb]"
+  },
+  {
+    "word": "humano",
+    "type": "[adjective]"
+  },
+  {
+    "word": "século",
+    "type": "[noun]"
+  },
+  {
+    "word": "âmbito",
+    "type": "[noun]"
+  },
+  {
+    "word": "prefeito",
+    "type": "[noun]"
+  },
+  {
+    "word": "fundo",
+    "type": "[noun]"
+  },
+  {
+    "word": "possibilidade",
+    "type": "[noun]"
+  },
+  {
+    "word": "reduzir",
+    "type": "[verb]"
+  },
+  {
+    "word": "dinheiro",
+    "type": "[noun]"
+  },
+  {
+    "word": "página",
+    "type": "[noun]"
+  },
+  {
+    "word": "janeiro",
+    "type": "[noun]"
+  },
+  {
+    "word": "teste",
+    "type": "[noun]"
+  },
+  {
+    "word": "tarde",
+    "type": "[noun]"
+  },
+  {
+    "word": "terceiro",
+    "type": "[adjective]"
+  },
+  {
+    "word": "acreditar",
+    "type": "[verb]"
+  },
+  {
+    "word": "aprovar",
+    "type": "[verb]"
+  },
+  {
+    "word": "claro",
+    "type": "[adjective]"
+  },
+  {
+    "word": "certo",
+    "type": "[adjective]"
+  },
+  {
+    "word": "iniciar",
+    "type": "[verb]"
+  },
+  {
+    "word": "tratamento",
+    "type": "[noun]"
+  },
+  {
+    "word": "volta",
+    "type": "[noun]"
+  },
+  {
+    "word": "surgir",
+    "type": "[verb]"
+  },
+  {
+    "word": "responder",
+    "type": "[verb]"
+  },
+  {
+    "word": "sob",
+    "type": "[preposition]"
+  },
+  {
+    "word": "seis",
+    "type": "[numeral]"
+  },
+  {
+    "word": "gostar",
+    "type": "[verb]"
+  },
+  {
+    "word": "força",
+    "type": "[noun]"
+  },
+  {
+    "word": "crescimento",
+    "type": "[noun]"
+  },
+  {
+    "word": "série",
+    "type": "[noun]"
+  },
+  {
+    "word": "análise",
+    "type": "[noun]"
+  },
+  {
+    "word": "mudar",
+    "type": "[verb]"
+  },
+  {
+    "word": "amigo",
+    "type": "[noun]"
+  },
+  {
+    "word": "texto",
+    "type": "[noun]"
+  },
+  {
+    "word": "rua",
+    "type": "[noun]"
+  },
+  {
+    "word": "palavra",
+    "type": "[noun]"
+  },
+  {
+    "word": "reunião",
+    "type": "[noun]"
+  },
+  {
+    "word": "definir",
+    "type": "[verb]"
+  },
+  {
+    "word": "altura",
+    "type": "[noun]"
+  },
+  {
+    "word": "contribuir",
+    "type": "[verb]"
+  },
+  {
+    "word": "caminho",
+    "type": "[noun]"
+  },
+  {
+    "word": "minuto",
+    "type": "[noun]"
+  },
+  {
+    "word": "opção",
+    "type": "[noun]"
+  },
+  {
+    "word": "Câmara",
+    "type": "[proper noun]"
+  },
+  {
+    "word": "crime",
+    "type": "[noun]"
+  },
+  {
+    "word": "mudança",
+    "type": "[noun]"
+  },
+  {
+    "word": "difícil",
+    "type": "[adjective]"
+  },
+  {
+    "word": "defender",
+    "type": "[verb]"
+  },
+  {
+    "word": "lançar",
+    "type": "[verb]"
+  },
+  {
+    "word": "criação",
+    "type": "[noun]"
+  },
+  {
+    "word": "dificuldade",
+    "type": "[noun]"
+  },
+  {
+    "word": "enviar",
+    "type": "[verb]"
+  },
+  {
+    "word": "embora",
+    "type": "[conjunction]"
+  },
+  {
+    "word": "eleição",
+    "type": "[noun]"
+  },
+  {
+    "word": "baixo",
+    "type": "[adjective]"
+  },
+  {
+    "word": "sector",
+    "type": "[noun]"
+  },
+  {
+    "word": "regra",
+    "type": "[noun]"
+  },
+  {
+    "word": "importância",
+    "type": "[noun]"
+  },
+  {
+    "word": "constituir",
+    "type": "[verb]"
+  },
+  {
+    "word": "natural",
+    "type": "[adjective]"
+  },
+  {
+    "word": "entrada",
+    "type": "[noun]"
+  },
+  {
+    "word": "funcionar",
+    "type": "[verb]"
+  },
+  {
+    "word": "mensagem",
+    "type": "[noun]"
+  },
+  {
+    "word": "produzir",
+    "type": "[verb]"
+  },
+  {
+    "word": "identificar",
+    "type": "[verb]"
+  },
+  {
+    "word": "época",
+    "type": "[noun]"
+  },
+  {
+    "word": "seguinte",
+    "type": "[adjective]"
+  },
+  {
+    "word": "tecnologia",
+    "type": "[noun]"
+  },
+  {
+    "word": "Deus",
+    "type": "[proper noun]"
+  },
+  {
+    "word": "corpo",
+    "type": "[noun]"
+  },
+  {
+    "word": "algo",
+    "type": "[pronoun]"
+  },
+  {
+    "word": "sucesso",
+    "type": "[noun]"
+  },
+  {
+    "word": "hospital",
+    "type": "[noun]"
+  },
+  {
+    "word": "desafio",
+    "type": "[noun]"
+  },
+  {
+    "word": "apontar",
+    "type": "[verb]"
+  },
+  {
+    "word": "associação",
+    "type": "[noun]"
+  },
+  {
+    "word": "envolver",
+    "type": "[verb]"
+  },
+  {
+    "word": "setor",
+    "type": "[noun]"
+  },
+  {
+    "word": "atendimento",
+    "type": "[noun]"
+  },
+  {
+    "word": "apoiar",
+    "type": "[verb]"
+  },
+  {
+    "word": "autoridade",
+    "type": "[noun]"
+  },
+  {
+    "word": "realidade",
+    "type": "[noun]"
+  },
+  {
+    "word": "trazer",
+    "type": "[verb]"
+  },
+  {
+    "word": "fechar",
+    "type": "[verb]"
+  },
+  {
+    "word": "encontro",
+    "type": "[noun]"
+  },
+  {
+    "word": "preciso",
+    "type": "[adjective]"
+  },
+  {
+    "word": "Maria",
+    "type": "[proper noun]"
+  },
+  {
+    "word": "falta",
+    "type": "[noun]"
+  },
+  {
+    "word": "sofrer",
+    "type": "[verb]"
+  },
+  {
+    "word": "assumir",
+    "type": "[verb]"
+  },
+  {
+    "word": "policial",
+    "type": "[noun]"
+  },
+  {
+    "word": "transporte",
+    "type": "[noun]"
+  },
+  {
+    "word": "escolher",
+    "type": "[verb]"
+  },
+  {
+    "word": "elevar",
+    "type": "[verb]"
+  },
+  {
+    "word": "campo",
+    "type": "[noun]"
+  },
+  {
+    "word": "fonte",
+    "type": "[noun]"
+  },
+  {
+    "word": "organizar",
+    "type": "[verb]"
+  },
+  {
+    "word": "avaliação",
+    "type": "[noun]"
+  },
+  {
+    "word": "logo",
+    "type": "[adverb]"
+  },
+  {
+    "word": "cumprir",
+    "type": "[verb]"
+  },
+  {
+    "word": "escrever",
+    "type": "[verb]"
+  },
+  {
+    "word": "vista",
+    "type": "[noun]"
+  },
+  {
+    "word": "porta",
+    "type": "[noun]"
+  },
+  {
+    "word": "partido",
+    "type": "[noun]"
+  },
+  {
+    "word": "instalação",
+    "type": "[noun]"
+  },
+  {
+    "word": "crescer",
+    "type": "[verb]"
+  },
+  {
+    "word": "referência",
+    "type": "[noun]"
+  },
+  {
+    "word": "estratégia",
+    "type": "[noun]"
+  },
+  {
+    "word": "entregar",
+    "type": "[verb]"
+  },
+  {
+    "word": "título",
+    "type": "[noun]"
+  },
+  {
+    "word": "registar",
+    "type": "[verb]"
+  },
+  {
+    "word": "termo",
+    "type": "[noun]"
+  },
+  {
+    "word": "visita",
+    "type": "[noun]"
+  },
+  {
+    "word": "nota",
+    "type": "[noun]"
+  },
+  {
+    "word": "responsabilidade",
+    "type": "[noun]"
+  },
+  {
+    "word": "aplicar",
+    "type": "[verb]"
+  },
+  {
+    "word": "estrutura",
+    "type": "[noun]"
+  },
+  {
+    "word": "comercial",
+    "type": "[adjective]"
+  },
+  {
+    "word": "contexto",
+    "type": "[noun]"
+  },
+  {
+    "word": "prémio",
+    "type": "[noun]"
+  },
+  {
+    "word": "disponibilizar",
+    "type": "[verb]"
+  },
+  {
+    "word": "vídeo",
+    "type": "[noun]"
+  },
+  {
+    "word": "apresentação",
+    "type": "[noun]"
+  },
+  {
+    "word": "deputado",
+    "type": "[noun]"
+  },
+  {
+    "word": "sim",
+    "type": "[adverb]"
+  },
+  {
+    "word": "oficial",
+    "type": "[adjective]"
+  },
+  {
+    "word": "morrer",
+    "type": "[verb]"
+  },
+  {
+    "word": "verdade",
+    "type": "[noun]"
+  },
+  {
+    "word": "servir",
+    "type": "[verb]"
+  },
+  {
+    "word": "atenção",
+    "type": "[noun]"
+  },
+  {
+    "word": "fácil",
+    "type": "[adjective]"
+  },
+  {
+    "word": "simples",
+    "type": "[adjective]"
+  },
+  {
+    "word": "voto",
+    "type": "[noun]"
+  },
+  {
+    "word": "diferentes",
+    "type": "[determiner]"
+  },
+  {
+    "word": "material",
+    "type": "[noun]"
+  },
+  {
+    "word": "Santa",
+    "type": "[proper noun]"
+  },
+  {
+    "word": "edifício",
+    "type": "[noun]"
+  },
+  {
+    "word": "território",
+    "type": "[noun]"
+  },
+  {
+    "word": "música",
+    "type": "[noun]"
+  },
+  {
+    "word": "terminar",
+    "type": "[verb]"
+  },
+  {
+    "word": "estudante",
+    "type": "[noun]"
+  },
+  {
+    "word": "compra",
+    "type": "[noun]"
+  },
+  {
+    "word": "entender",
+    "type": "[verb]"
+  },
+  {
+    "word": "prefeitura",
+    "type": "[noun]"
+  },
+  {
+    "word": "viagem",
+    "type": "[noun]"
+  },
+  {
+    "word": "vírus",
+    "type": "[noun]"
+  },
+  {
+    "word": "fundamental",
+    "type": "[adjective]"
+  },
+  {
+    "word": "particular",
+    "type": "[adjective]"
+  },
+  {
+    "word": "estabelecer",
+    "type": "[verb]"
+  },
+  {
+    "word": "privado",
+    "type": "[adjective]"
+  },
+  {
+    "word": "Coimbra",
+    "type": "[proper noun]"
+  },
+  {
+    "word": "atual",
+    "type": "[adjective]"
+  },
+  {
+    "word": "Silva",
+    "type": "[proper noun]"
+  },
+  {
+    "word": "bastante",
+    "type": "[adverb]"
+  },
+  {
+    "word": "emprego",
+    "type": "[noun]"
+  },
+  {
+    "word": "ligar",
+    "type": "[verb]"
+  },
+  {
+    "word": "cidadão",
+    "type": "[noun]"
+  },
+  {
+    "word": "registo",
+    "type": "[noun]"
+  },
+  {
+    "word": "municipal",
+    "type": "[adjective]"
+  },
+  {
+    "word": "plataforma",
+    "type": "[noun]"
+  },
+  {
+    "word": "impacto",
+    "type": "[noun]"
+  },
+  {
+    "word": "interior",
+    "type": "[noun]"
+  },
+  {
+    "word": "gerar",
+    "type": "[verb]"
+  },
+  {
+    "word": "Santos",
+    "type": "[proper noun]"
+  },
+  {
+    "word": "cuidado",
+    "type": "[noun]"
+  },
+  {
+    "word": "oferta",
+    "type": "[noun]"
+  },
+  {
+    "word": "médio",
+    "type": "[adjective]"
+  },
+  {
+    "word": "preparar",
+    "type": "[verb]"
+  },
+  {
+    "word": "essencial",
+    "type": "[adjective]"
+  },
+  {
+    "word": "contacto",
+    "type": "[noun]"
+  },
+  {
+    "word": "posição",
+    "type": "[noun]"
+  },
+  {
+    "word": "carro",
+    "type": "[noun]"
+  },
+  {
+    "word": "reconhecer",
+    "type": "[verb]"
+  },
+  {
+    "word": "movimento",
+    "type": "[noun]"
+  },
+  {
+    "word": "ouvir",
+    "type": "[verb]"
+  },
+  {
+    "word": "educação",
+    "type": "[noun]"
+  },
+  {
+    "word": "global",
+    "type": "[adjective]"
+  },
+  {
+    "word": "redução",
+    "type": "[noun]"
+  },
+  {
+    "word": "olhar",
+    "type": "[verb]"
+  },
+  {
+    "word": "dúvida",
+    "type": "[noun]"
+  },
+  {
+    "word": "seguro",
+    "type": "[adjective]"
+  },
+  {
+    "word": "comum",
+    "type": "[adjective]"
+  },
+  {
+    "word": "vencer",
+    "type": "[verb]"
+  },
+  {
+    "word": "idade",
+    "type": "[noun]"
+  },
+  {
+    "word": "isolamento",
+    "type": "[noun]"
+  },
+  {
+    "word": "cultura",
+    "type": "[noun]"
+  },
+  {
+    "word": "possuir",
+    "type": "[verb]"
+  },
+  {
+    "word": "militar",
+    "type": "[adjective]"
+  },
+  {
+    "word": "parceria",
+    "type": "[noun]"
+  },
+  {
+    "word": "agosto",
+    "type": "[noun]"
+  },
+  {
+    "word": "Pedro",
+    "type": "[proper noun]"
+  },
+  {
+    "word": "banco",
+    "type": "[noun]"
+  },
+  {
+    "word": "pesquisa",
+    "type": "[noun]"
+  },
+  {
+    "word": "órgão",
+    "type": "[noun]"
+  },
+  {
+    "word": "causar",
+    "type": "[verb]"
+  },
+  {
+    "word": "fevereiro",
+    "type": "[noun]"
+  },
+  {
+    "word": "manhã",
+    "type": "[noun]"
+  },
+  {
+    "word": "reforçar",
+    "type": "[verb]"
+  },
+  {
+    "word": "ligação",
+    "type": "[noun]"
+  },
+  {
+    "word": "líder",
+    "type": "[noun]"
+  },
+  {
+    "word": "lembrar",
+    "type": "[verb]"
+  },
+  {
+    "word": "prestar",
+    "type": "[verb]"
+  },
+  {
+    "word": "exposição",
+    "type": "[noun]"
+  },
+  {
+    "word": "ninguém",
+    "type": "[pronoun]"
+  },
+  {
+    "word": "consumo",
+    "type": "[noun]"
+  },
+  {
+    "word": "avaliar",
+    "type": "[verb]"
+  },
+  {
+    "word": "científico",
+    "type": "[adjective]"
+  },
+  {
+    "word": "rápido",
+    "type": "[adjective]"
+  },
+  {
+    "word": "lista",
+    "type": "[noun]"
+  },
+  {
+    "word": "estrangeiro",
+    "type": "[adjective]"
+  },
+  {
+    "word": "bairro",
+    "type": "[noun]"
+  },
+  {
+    "word": "cair",
+    "type": "[verb]"
+  },
+  {
+    "word": "sobretudo",
+    "type": "[adverb]"
+  },
+  {
+    "word": "histórico",
+    "type": "[adjective]"
+  },
+  {
+    "word": "terra",
+    "type": "[noun]"
+  },
+  {
+    "word": "controlo",
+    "type": "[noun]"
+  },
+  {
+    "word": "ontem",
+    "type": "[adverb]"
+  },
+  {
+    "word": "futebol",
+    "type": "[noun]"
+  },
+  {
+    "word": "digital",
+    "type": "[adjective]"
+  },
+  {
+    "word": "real",
+    "type": "[adjective]"
+  },
+  {
+    "word": "cargo",
+    "type": "[noun]"
+  },
+  {
+    "word": "melhorar",
+    "type": "[verb]"
+  },
+  {
+    "word": "atender",
+    "type": "[verb]"
+  },
+  {
+    "word": "avançar",
+    "type": "[verb]"
+  },
+  {
+    "word": "defesa",
+    "type": "[noun]"
+  },
+  {
+    "word": "específico",
+    "type": "[adjective]"
+  },
+  {
+    "word": "físico",
+    "type": "[adjective]"
+  },
+  {
+    "word": "mãe",
+    "type": "[noun]"
+  },
+  {
+    "word": "suspeito",
+    "type": "[noun]"
+  },
+  {
+    "word": "acrescentar",
+    "type": "[verb]"
+  },
+  {
+    "word": "recente",
+    "type": "[adjective]"
+  },
+  {
+    "word": "realização",
+    "type": "[noun]"
+  },
+  {
+    "word": "porém",
+    "type": "[conjunction]"
+  },
+  {
+    "word": "termos",
+    "type": "[noun]"
+  },
+  {
+    "word": "origem",
+    "type": "[noun]"
+  },
+  {
+    "word": "cultural",
+    "type": "[adjective]"
+  },
+  {
+    "word": "fato",
+    "type": "[noun]"
+  },
+  {
+    "word": "governador",
+    "type": "[noun]"
+  },
+  {
+    "word": "respeito",
+    "type": "[noun]"
+  },
+  {
+    "word": "contudo",
+    "type": "[adverb]"
+  },
+  {
+    "word": "analisar",
+    "type": "[verb]"
+  },
+  {
+    "word": "autor",
+    "type": "[noun]"
+  },
+  {
+    "word": "familiar",
+    "type": "[adjective]"
+  },
+  {
+    "word": "arte",
+    "type": "[noun]"
+  },
+  {
+    "word": "exigir",
+    "type": "[verb]"
+  },
+  {
+    "word": "leitura",
+    "type": "[noun]"
+  },
+  {
+    "word": "face",
+    "type": "[adverb]"
+  },
+  {
+    "word": "regime",
+    "type": "[noun]"
+  },
+  {
+    "word": "maneira",
+    "type": "[noun]"
+  },
+  {
+    "word": "princípio",
+    "type": "[noun]"
+  },
+  {
+    "word": "ordem",
+    "type": "[noun]"
+  },
+  {
+    "word": "Carlos",
+    "type": "[proper noun]"
+  },
+  {
+    "word": "entrevista",
+    "type": "[noun]"
+  },
+  {
+    "word": "construir",
+    "type": "[verb]"
+  },
+  {
+    "word": "assegurar",
+    "type": "[verb]"
+  },
+  {
+    "word": "filme",
+    "type": "[noun]"
+  },
+  {
+    "word": "quarto",
+    "type": "[noun]"
+  },
+  {
+    "word": "vitória",
+    "type": "[noun]"
+  },
+  {
+    "word": "jogar",
+    "type": "[verb]"
+  },
+  {
+    "word": "versão",
+    "type": "[noun]"
+  },
+  {
+    "word": "nomeadamente",
+    "type": "[adverb]"
+  },
+  {
+    "word": "igualmente",
+    "type": "[adverb]"
+  },
+  {
+    "word": "aparecer",
+    "type": "[verb]"
+  },
+  {
+    "word": "parceiro",
+    "type": "[noun]"
+  },
+  {
+    "word": "comprar",
+    "type": "[verb]"
+  },
+  {
+    "word": "cor",
+    "type": "[noun]"
+  },
+  {
+    "word": "concluir",
+    "type": "[verb]"
+  },
+  {
+    "word": "concurso",
+    "type": "[noun]"
+  },
+  {
+    "word": "partida",
+    "type": "[noun]"
+  },
+  {
+    "word": "bilhão",
+    "type": "[numeral]"
+  },
+  {
+    "word": "via",
+    "type": "[noun]"
+  },
+  {
+    "word": "competência",
+    "type": "[noun]"
+  },
+  {
+    "word": "acima",
+    "type": "[adverb]"
+  },
+  {
+    "word": "animal",
+    "type": "[noun]"
+  },
+  {
+    "word": "grave",
+    "type": "[adjective]"
+  },
+  {
+    "word": "crédito",
+    "type": "[noun]"
+  },
+  {
+    "word": "ao",
+    "type": "[preposition]"
+  },
+  {
+    "word": "secretário",
+    "type": "[noun]"
+  },
+  {
+    "word": "quadro",
+    "type": "[noun]"
+  },
+  {
+    "word": "vender",
+    "type": "[verb]"
+  },
+  {
+    "word": "perceber",
+    "type": "[verb]"
+  },
+  {
+    "word": "exercício",
+    "type": "[noun]"
+  },
+  {
+    "word": "diverso",
+    "type": "[adjective]"
+  },
+  {
+    "word": "livre",
+    "type": "[adjective]"
+  },
+  {
+    "word": "procedimento",
+    "type": "[noun]"
+  },
+  {
+    "word": "notícia",
+    "type": "[noun]"
+  },
+  {
+    "word": "federal",
+    "type": "[adjective]"
+  },
+  {
+    "word": "especialista",
+    "type": "[noun]"
+  },
+  {
+    "word": "dedicar",
+    "type": "[verb]"
+  },
+  {
+    "word": "atuar",
+    "type": "[verb]"
+  },
+  {
+    "word": "assunto",
+    "type": "[noun]"
+  },
+  {
+    "word": "António",
+    "type": "[proper noun]"
+  },
+  {
+    "word": "vacina",
+    "type": "[noun]"
+  },
+  {
+    "word": "queda",
+    "type": "[noun]"
+  },
+  {
+    "word": "dimensão",
+    "type": "[noun]"
+  },
+  {
+    "word": "ciclo",
+    "type": "[noun]"
+  },
+  {
+    "word": "online",
+    "type": "[adjective]"
+  },
+  {
+    "word": "freguesia",
+    "type": "[noun]"
+  },
+  {
+    "word": "andar",
+    "type": "[verb]"
+  },
+  {
+    "word": "participante",
+    "type": "[noun]"
+  },
+  {
+    "word": "relacionar",
+    "type": "[verb]"
+  },
+  {
+    "word": "funcionamento",
+    "type": "[noun]"
+  },
+  {
+    "word": "doente",
+    "type": "[noun]"
+  },
+  {
+    "word": "funcionário",
+    "type": "[noun]"
+  },
+  {
+    "word": "administração",
+    "type": "[noun]"
+  },
+  {
+    "word": "ferramenta",
+    "type": "[noun]"
+  },
+  {
+    "word": "sala",
+    "type": "[noun]"
+  },
+  {
+    "word": "espécie",
+    "type": "[noun]"
+  },
+  {
+    "word": "ajuda",
+    "type": "[noun]"
+  },
+  {
+    "word": "esforço",
+    "type": "[noun]"
+  },
+  {
+    "word": "resolver",
+    "type": "[verb]"
+  },
+  {
+    "word": "receita",
+    "type": "[noun]"
+  },
+  {
+    "word": "passo",
+    "type": "[noun]"
+  },
+  {
+    "word": "povo",
+    "type": "[noun]"
+  },
+  {
+    "word": "percurso",
+    "type": "[noun]"
+  },
+  {
+    "word": "time",
+    "type": "[noun]"
+  },
+  {
+    "word": "agência",
+    "type": "[noun]"
+  },
+  {
+    "word": "Costa",
+    "type": "[proper noun]"
+  },
+  {
+    "word": "candidatura",
+    "type": "[noun]"
+  },
+  {
+    "word": "capaz",
+    "type": "[adjective]"
+  },
+  {
+    "word": "correr",
+    "type": "[verb]"
+  },
+  {
+    "word": "contrário",
+    "type": "[noun]"
+  },
+  {
+    "word": "agente",
+    "type": "[noun]"
+  },
+  {
+    "word": "relatório",
+    "type": "[noun]"
+  },
+  {
+    "word": "significar",
+    "type": "[verb]"
+  },
+  {
+    "word": "ler",
+    "type": "[verb]"
+  },
+  {
+    "word": "combate",
+    "type": "[noun]"
+  },
+  {
+    "word": "Luís",
+    "type": "[proper noun]"
+  },
+  {
+    "word": "polícia",
+    "type": "[noun]"
+  },
+  {
+    "word": "aí",
+    "type": "[adverb]"
+  },
+  {
+    "word": "mundial",
+    "type": "[adjective]"
+  },
+  {
+    "word": "sinal",
+    "type": "[noun]"
+  },
+  {
+    "word": "visitar",
+    "type": "[verb]"
+  },
+  {
+    "word": "conforme",
+    "type": "[conjunction]"
+  },
+  {
+    "word": "evolução",
+    "type": "[noun]"
+  },
+  {
+    "word": "perto",
+    "type": "[adverb]"
+  },
+  {
+    "word": "excelente",
+    "type": "[adjective]"
+  },
+  {
+    "word": "sete",
+    "type": "[numeral]"
+  },
+  {
+    "word": "máscara",
+    "type": "[noun]"
+  },
+  {
+    "word": "nascer",
+    "type": "[verb]"
+  },
+  {
+    "word": "declaração",
+    "type": "[noun]"
+  },
+  {
+    "word": "destinar",
+    "type": "[verb]"
+  },
+  {
+    "word": "câmara",
+    "type": "[noun]"
+  },
+  {
+    "word": "enfrentar",
+    "type": "[verb]"
+  },
+  {
+    "word": "ocupar",
+    "type": "[verb]"
+  },
+  {
+    "word": "estadual",
+    "type": "[adjective]"
+  },
+  {
+    "word": "reunir",
+    "type": "[verb]"
+  },
+  {
+    "word": "formar",
+    "type": "[verb]"
+  },
+  {
+    "word": "dez",
+    "type": "[numeral]"
+  },
+  {
+    "word": "valer",
+    "type": "[verb]"
+  },
+  {
+    "word": "óbito",
+    "type": "[noun]"
+  },
+  {
+    "word": "cenário",
+    "type": "[noun]"
+  },
+  {
+    "word": "descobrir",
+    "type": "[verb]"
+  },
+  {
+    "word": "diferença",
+    "type": "[noun]"
+  },
+  {
+    "word": "buscar",
+    "type": "[verb]"
+  },
+  {
+    "word": "executivo",
+    "type": "[noun]"
+  },
+  {
+    "word": "vaga",
+    "type": "[noun]"
+  },
+  {
+    "word": "opinião",
+    "type": "[noun]"
+  },
+  {
+    "word": "verificar",
+    "type": "[verb]"
+  },
+  {
+    "word": "justiça",
+    "type": "[noun]"
+  },
+  {
+    "word": "alguém",
+    "type": "[pronoun]"
+  },
+  {
+    "word": "natureza",
+    "type": "[noun]"
+  },
+  {
+    "word": "relativo",
+    "type": "[adjective]"
+  },
+  {
+    "word": "solicitar",
+    "type": "[verb]"
+  },
+  {
+    "word": "provocar",
+    "type": "[verb]"
+  },
+  {
+    "word": "China",
+    "type": "[proper noun]"
+  },
+  {
+    "word": "aula",
+    "type": "[noun]"
+  },
+  {
+    "word": "visar",
+    "type": "[verb]"
+  },
+  {
+    "word": "aceitar",
+    "type": "[verb]"
+  },
+  {
+    "word": "ambos",
+    "type": "[determiner]"
+  },
+  {
+    "word": "limite",
+    "type": "[noun]"
+  },
+  {
+    "word": "recuperar",
+    "type": "[verb]"
+  },
+  {
+    "word": "vigor",
+    "type": "[noun]"
+  },
+  {
+    "word": "subir",
+    "type": "[verb]"
+  },
+  {
+    "word": "actual",
+    "type": "[adjective]"
+  },
+  {
+    "word": "aproveitar",
+    "type": "[verb]"
+  },
+  {
+    "word": "alcançar",
+    "type": "[verb]"
+  },
+  {
+    "word": "ar",
+    "type": "[noun]"
+  },
+  {
+    "word": "jornal",
+    "type": "[noun]"
+  },
+  {
+    "word": "tradicional",
+    "type": "[adjective]"
+  },
+  {
+    "word": "festa",
+    "type": "[noun]"
+  },
+  {
+    "word": "propor",
+    "type": "[verb]"
+  },
+  {
+    "word": "década",
+    "type": "[noun]"
+  },
+  {
+    "word": "adquirir",
+    "type": "[verb]"
+  },
+  {
+    "word": "associar",
+    "type": "[verb]"
+  },
+  {
+    "word": "principalmente",
+    "type": "[adverb]"
+  },
+  {
+    "word": "enorme",
+    "type": "[adjective]"
+  },
+  {
+    "word": "mal",
+    "type": "[adverb]"
+  },
+  {
+    "word": "relativamente",
+    "type": "[adverb]"
+  },
+  {
+    "word": "permanecer",
+    "type": "[verb]"
+  },
+  {
+    "word": "depender",
+    "type": "[verb]"
+  },
+  {
+    "word": "característica",
+    "type": "[noun]"
+  },
+  {
+    "word": "adotar",
+    "type": "[verb]"
+  },
+  {
+    "word": "matéria",
+    "type": "[noun]"
+  },
+  {
+    "word": "assinar",
+    "type": "[verb]"
+  },
+  {
+    "word": "indústria",
+    "type": "[noun]"
+  },
+  {
+    "word": "entrega",
+    "type": "[noun]"
+  },
+  {
+    "word": "luz",
+    "type": "[noun]"
+  },
+  {
+    "word": "restante",
+    "type": "[adjective]"
+  },
+  {
+    "word": "amor",
+    "type": "[noun]"
+  },
+  {
+    "word": "média",
+    "type": "[noun]"
+  },
+  {
+    "word": "saída",
+    "type": "[noun]"
+  },
+  {
+    "word": "Algarve",
+    "type": "[proper noun]"
+  },
+  {
+    "word": "econômico",
+    "type": "[adjective]"
+  },
+  {
+    "word": "loja",
+    "type": "[noun]"
+  },
+  {
+    "word": "estabelecimento",
+    "type": "[noun]"
+  },
+  {
+    "word": "resultar",
+    "type": "[verb]"
+  },
+  {
+    "word": "respeitar",
+    "type": "[verb]"
+  },
+  {
+    "word": "motivo",
+    "type": "[noun]"
+  },
+  {
+    "word": "memória",
+    "type": "[noun]"
+  },
+  {
+    "word": "Espanha",
+    "type": "[proper noun]"
+  },
+  {
+    "word": "escolha",
+    "type": "[noun]"
+  },
+  {
+    "word": "portanto",
+    "type": "[conjunction]"
+  },
+  {
+    "word": "aprender",
+    "type": "[verb]"
+  },
+  {
+    "word": "consumidor",
+    "type": "[noun]"
+  },
+  {
+    "word": "efectuar",
+    "type": "[verb]"
+  },
+  {
+    "word": "central",
+    "type": "[adjective]"
+  },
+  {
+    "word": "missão",
+    "type": "[noun]"
+  },
+  {
+    "word": "adequado",
+    "type": "[adjective]"
+  },
+  {
+    "word": "oito",
+    "type": "[numeral]"
+  },
+  {
+    "word": "talvez",
+    "type": "[adverb]"
+  },
+  {
+    "word": "norma",
+    "type": "[noun]"
+  },
+  {
+    "word": "promoção",
+    "type": "[noun]"
+  },
+  {
+    "word": "proteção",
+    "type": "[noun]"
+  },
+  {
+    "word": "orientação",
+    "type": "[noun]"
+  },
+  {
+    "word": "manutenção",
+    "type": "[noun]"
+  },
+  {
+    "word": "canal",
+    "type": "[noun]"
+  },
+  {
+    "word": "compor",
+    "type": "[verb]"
+  },
+  {
+    "word": "alterar",
+    "type": "[verb]"
+  },
+  {
+    "word": "automóvel",
+    "type": "[noun]"
+  },
+  {
+    "word": "vontade",
+    "type": "[noun]"
+  },
+  {
+    "word": "comportamento",
+    "type": "[noun]"
+  },
+  {
+    "word": "Jesus",
+    "type": "[proper noun]"
+  },
+  {
+    "word": "pena",
+    "type": "[noun]"
+  },
+  {
+    "word": "mar",
+    "type": "[noun]"
+  },
+  {
+    "word": "declarar",
+    "type": "[verb]"
+  },
+  {
+    "word": "elas",
+    "type": "[pronoun]"
+  },
+  {
+    "word": "aquilo",
+    "type": "[pronoun]"
+  },
+  {
+    "word": "Francisco",
+    "type": "[proper noun]"
+  },
+  {
+    "word": "exterior",
+    "type": "[noun]"
+  },
+  {
+    "word": "protocolo",
+    "type": "[noun]"
+  },
+  {
+    "word": "conselho",
+    "type": "[noun]"
+  },
+  {
+    "word": "comércio",
+    "type": "[noun]"
+  },
+  {
+    "word": "completo",
+    "type": "[adjective]"
+  },
+  {
+    "word": "carreira",
+    "type": "[noun]"
+  },
+  {
+    "word": "comunicar",
+    "type": "[verb]"
+  },
+  {
+    "word": "debate",
+    "type": "[noun]"
+  },
+  {
+    "word": "proporcionar",
+    "type": "[verb]"
+  },
+  {
+    "word": "sede",
+    "type": "[noun]"
+  },
+  {
+    "word": "expectativa",
+    "type": "[noun]"
+  },
+  {
+    "word": "abertura",
+    "type": "[noun]"
+  },
+  {
+    "word": "benefício",
+    "type": "[noun]"
+  },
+  {
+    "word": "despesa",
+    "type": "[noun]"
+  },
+  {
+    "word": "interno",
+    "type": "[adjective]"
+  },
+  {
+    "word": "imprensa",
+    "type": "[noun]"
+  },
+  {
+    "word": "financiamento",
+    "type": "[noun]"
+  },
+  {
+    "word": "observar",
+    "type": "[verb]"
+  },
+  {
+    "word": "obrigatório",
+    "type": "[adjective]"
+  },
+  {
+    "word": "civil",
+    "type": "[adjective]"
+  },
+  {
+    "word": "ciência",
+    "type": "[noun]"
+  },
+  {
+    "word": "existente",
+    "type": "[adjective]"
+  },
+  {
+    "word": "servidor",
+    "type": "[noun]"
+  },
+  {
+    "word": "revista",
+    "type": "[noun]"
+  },
+  {
+    "word": "mau",
+    "type": "[adjective]"
+  },
+  {
+    "word": "consequência",
+    "type": "[noun]"
+  },
+  {
+    "word": "preocupação",
+    "type": "[noun]"
+  },
+  {
+    "word": "atribuir",
+    "type": "[verb]"
+  },
+  {
+    "word": "posto",
+    "type": "[noun]"
+  },
+  {
+    "word": "localizar",
+    "type": "[verb]"
+  },
+  {
+    "word": "fornecer",
+    "type": "[verb]"
+  },
+  {
+    "word": "branco",
+    "type": "[adjective]"
+  },
+  {
+    "word": "contato",
+    "type": "[noun]"
+  },
+  {
+    "word": "conferência",
+    "type": "[noun]"
+  },
+  {
+    "word": "prisão",
+    "type": "[noun]"
+  },
+  {
+    "word": "horário",
+    "type": "[noun]"
+  },
+  {
+    "word": "melhoria",
+    "type": "[noun]"
+  },
+  {
+    "word": "advogado",
+    "type": "[noun]"
+  },
+  {
+    "word": "tirar",
+    "type": "[verb]"
+  },
+  {
+    "word": "eleitoral",
+    "type": "[adjective]"
+  },
+  {
+    "word": "diretor",
+    "type": "[noun]"
+  },
+  {
+    "word": "empresário",
+    "type": "[noun]"
+  },
+  {
+    "word": "artista",
+    "type": "[noun]"
+  },
+  {
+    "word": "luta",
+    "type": "[noun]"
+  },
+  {
+    "word": "procura",
+    "type": "[noun]"
+  },
+  {
+    "word": "atleta",
+    "type": "[noun]"
+  },
+  {
+    "word": "ativo",
+    "type": "[adjective]"
+  },
+  {
+    "word": "liberdade",
+    "type": "[noun]"
+  },
+  {
+    "word": "publicação",
+    "type": "[noun]"
+  },
+  {
+    "word": "conceito",
+    "type": "[noun]"
+  },
+  {
+    "word": "individual",
+    "type": "[adjective]"
+  },
+  {
+    "word": "confiança",
+    "type": "[noun]"
+  },
+  {
+    "word": "respectivo",
+    "type": "[adjective]"
+  },
+  {
+    "word": "jornalista",
+    "type": "[noun]"
+  },
+  {
+    "word": "igual",
+    "type": "[adjective]"
+  },
+  {
+    "word": "vereador",
+    "type": "[noun]"
+  },
+  {
+    "word": "destaque",
+    "type": "[noun]"
+  },
+  {
+    "word": "dívida",
+    "type": "[noun]"
+  },
+  {
+    "word": "busca",
+    "type": "[noun]"
+  },
+  {
+    "word": "negativo",
+    "type": "[adjective]"
+  },
+  {
+    "word": "ataque",
+    "type": "[noun]"
+  },
+  {
+    "word": "imediato",
+    "type": "[adjective]"
+  },
+  {
+    "word": "idoso",
+    "type": "[noun]"
+  },
+  {
+    "word": "expressão",
+    "type": "[noun]"
+  },
+  {
+    "word": "competição",
+    "type": "[noun]"
+  },
+  {
+    "word": "acidente",
+    "type": "[noun]"
+  },
+  {
+    "word": "salário",
+    "type": "[noun]"
+  },
+  {
+    "word": "Madeira",
+    "type": "[proper noun]"
+  },
+  {
+    "word": "verdadeiro",
+    "type": "[adjective]"
+  },
+  {
+    "word": "normal",
+    "type": "[adjective]"
+  },
+  {
+    "word": "prender",
+    "type": "[verb]"
+  },
+  {
+    "word": "estudar",
+    "type": "[verb]"
+  },
+  {
+    "word": "Oliveira",
+    "type": "[proper noun]"
+  },
+  {
+    "word": "instalar",
+    "type": "[verb]"
+  },
+  {
+    "word": "Aveiro",
+    "type": "[proper noun]"
+  },
+  {
+    "word": "consulta",
+    "type": "[noun]"
+  },
+  {
+    "word": "orçamento",
+    "type": "[noun]"
+  },
+  {
+    "word": "demais",
+    "type": "[determiner]"
+  },
+  {
+    "word": "temporada",
+    "type": "[noun]"
+  },
+  {
+    "word": "sequência",
+    "type": "[noun]"
+  },
+  {
+    "word": "vantagem",
+    "type": "[noun]"
+  },
+  {
+    "word": "matar",
+    "type": "[verb]"
+  },
+  {
+    "word": "dirigir",
+    "type": "[verb]"
+  },
+  {
+    "word": "demonstrar",
+    "type": "[verb]"
+  },
+  {
+    "word": "geração",
+    "type": "[noun]"
+  },
+  {
+    "word": "favor",
+    "type": "[noun]"
+  },
+  {
+    "word": "dispor",
+    "type": "[verb]"
+  },
+  {
+    "word": "atualmente",
+    "type": "[adverb]"
+  },
+  {
+    "word": "universidade",
+    "type": "[noun]"
+  },
+  {
+    "word": "investir",
+    "type": "[verb]"
+  },
+  {
+    "word": "aquisição",
+    "type": "[noun]"
+  },
+  {
+    "word": "erro",
+    "type": "[noun]"
+  },
+  {
+    "word": "distribuição",
+    "type": "[noun]"
+  },
+  {
+    "word": "abordar",
+    "type": "[verb]"
+  },
+  {
+    "word": "guerra",
+    "type": "[noun]"
+  },
+  {
+    "word": "tendência",
+    "type": "[noun]"
+  },
+  {
+    "word": "Janeiro",
+    "type": "[proper noun]"
+  },
+  {
+    "word": "superior",
+    "type": "[adjective]"
+  },
+  {
+    "word": "companhia",
+    "type": "[noun]"
+  },
+  {
+    "word": "exame",
+    "type": "[noun]"
+  },
+  {
+    "word": "alimentar",
+    "type": "[adjective]"
+  },
+  {
+    "word": "domínio",
+    "type": "[noun]"
+  },
+  {
+    "word": "França",
+    "type": "[proper noun]"
+  },
+  {
+    "word": "leito",
+    "type": "[noun]"
+  },
+  {
+    "word": "associado",
+    "type": "[noun]"
+  },
+  {
+    "word": "transformar",
+    "type": "[verb]"
+  },
+  {
+    "word": "obrigar",
+    "type": "[verb]"
+  },
+  {
+    "word": "olho",
+    "type": "[noun]"
+  },
+  {
+    "word": "ambiental",
+    "type": "[adjective]"
+  },
+  {
+    "word": "desejar",
+    "type": "[verb]"
+  },
+  {
+    "word": "carta",
+    "type": "[noun]"
+  },
+  {
+    "word": "sintoma",
+    "type": "[noun]"
+  },
+  {
+    "word": "diário",
+    "type": "[adjective]"
+  },
+  {
+    "word": "afetar",
+    "type": "[verb]"
+  },
+  {
+    "word": "morador",
+    "type": "[noun]"
+  },
+  {
+    "word": "francês",
+    "type": "[adjective]"
+  },
+  {
+    "word": "voz",
+    "type": "[noun]"
+  },
+  {
+    "word": "medicamento",
+    "type": "[noun]"
+  },
+  {
+    "word": "transmitir",
+    "type": "[verb]"
+  },
+  {
+    "word": "desempenho",
+    "type": "[noun]"
+  },
+  {
+    "word": "categoria",
+    "type": "[noun]"
+  },
+  {
+    "word": "instrumento",
+    "type": "[noun]"
+  },
+  {
+    "word": "recuperação",
+    "type": "[noun]"
+  },
+  {
+    "word": "volume",
+    "type": "[noun]"
+  },
+  {
+    "word": "transmissão",
+    "type": "[noun]"
+  },
+  {
+    "word": "urbano",
+    "type": "[adjective]"
+  },
+  {
+    "word": "comentar",
+    "type": "[verb]"
+  },
+  {
+    "word": "Jorge",
+    "type": "[proper noun]"
+  },
+  {
+    "word": "suporte",
+    "type": "[noun]"
+  },
+  {
+    "word": "ilha",
+    "type": "[noun]"
+  },
+  {
+    "word": "pra",
+    "type": "[preposition]"
+  },
+  {
+    "word": "corte",
+    "type": "[noun]"
+  },
+  {
+    "word": "foto",
+    "type": "[noun]"
+  },
+  {
+    "word": "potencial",
+    "type": "[noun]"
+  },
+  {
+    "word": "regional",
+    "type": "[adjective]"
+  },
+  {
+    "word": "administrativo",
+    "type": "[adjective]"
+  },
+  {
+    "word": "existência",
+    "type": "[noun]"
+  },
+  {
+    "word": "legal",
+    "type": "[adjective]"
+  },
+  {
+    "word": "alvo",
+    "type": "[noun]"
+  },
+  {
+    "word": "fiscal",
+    "type": "[adjective]"
+  },
+  {
+    "word": "Fernando",
+    "type": "[proper noun]"
+  },
+  {
+    "word": "americano",
+    "type": "[adjective]"
+  },
+  {
+    "word": "cabeça",
+    "type": "[noun]"
+  },
+  {
+    "word": "ressaltar",
+    "type": "[verb]"
+  },
+  {
+    "word": "impedir",
+    "type": "[verb]"
+  },
+  {
+    "word": "etapa",
+    "type": "[noun]"
+  },
+  {
+    "word": "rapidamente",
+    "type": "[adverb]"
+  },
+  {
+    "word": "praia",
+    "type": "[noun]"
+  }
+]

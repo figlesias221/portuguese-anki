@@ -1,0 +1,33 @@
+The goal of this documentation is to explain the thought process and steps to create the project.
+
+1. First of all I needed the most common Portuguese words. I search the web for APIs that could provide me with this information.
+Didnt find any. But I found a list of the most common words in Portuguese here: https://travelwithlanguages.com/blog/most-common-portuguese-words.html
+
+2. I decided to scrape the words from the website. I created a ver simple scraper `words-scraper.js` to scrape the words from the website and save them to a JSON file.
+I saved the word and the type of the word (noun, verb, adjective, etc.) to help the model identify the type of the word (just in case).
+
+3. Once I have the words, I needed to generate the flashcards. I created a script to integrate OpenAI API to generate the flashcards.
+
+4. I remebered that the OpenAI API SDK has a function to generate structured data using a Zod schema. So I refactored the script that generates the flashcards to use the OpenAI API SDK.
+
+5. Edited the prompt to generate exactly the fields that I need and save the output in a JSON file.
+
+6. Created a simple server with 3 services:
+
+- `POST /generate-flashcard`: Generate a flashcard for a single word.
+- `GET /flashcards`: Return the flashcards stored in the JSON DB file.
+- `POST /generate-flashcards-common-words`: Generate flashcards for the words stored in the portuguese-words.json file.
+
+(I used the JSON file as a DB to save the flashcards. In production I would use a proper DB.)
+(Keep the script `script-generate-cards-common-words.js` to generate the flashcards for the most common words.)
+
+7. Edited the README.md to add the instructions to run the server and the endpoints or just the script to generate the flashcards for the most common words.
+
+8. After this, I search for text to speech API to generate the audio for the flashcards. 
+I found that openAI SDK has a function to generate audio from text. So I edited the `generate-flashcard.js` to generate the audio for the flashcards.
+I had to find a way to save the audio, link it to the flashcard and play somehow. I decided to save the audio in the public folder and link it to the flashcard by adding the audio file name to the flashcard object.
+
+9. Finally, I wanted the audios to be accessible to the user, so I created a ver simple index.html to view the flashcards and play the audio :)
+
+
+

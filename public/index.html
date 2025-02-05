@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Portuguese Flashcards</title>
+    <style>
+        .flashcard {
+            max-width: 500px;
+            margin: 50px auto;
+            padding: 20px;
+            border: 1px solid #ccc;
+            border-radius: 8px;
+            text-align: center;
+        }
+        button {
+            margin: 5px;
+            padding: 8px 16px;
+            cursor: pointer;
+        }
+    </style>
+</head>
+<body>
+    <div class="flashcard">
+        <h2 id="word"></h2>
+        <p><strong>Pronunciation:</strong> <span id="pronunciation"></span></p>
+        <p><strong>Definition:</strong> <span id="definition"></span></p>
+        <p><strong>Example:</strong> <span id="example_sentence"></span></p>
+        <p><strong>Translation:</strong> <span id="sentence_translation"></span></p>
+        <p><strong>Notes:</strong> <span id="notes"></span></p>
+        <button onclick="playAudio('european')">Play European</button>
+        <button onclick="playAudio('brazilian')">Play Brazilian</button>
+        <button onclick="nextCard()">Next Card</button>
+    </div>
+
+    <script>
+        let flashcards = [];
+        let currentIndex = 0;
+
+        // Load flashcards from API
+        async function loadFlashcards() {
+            const response = await fetch("/flashcards");
+            flashcards = await response.json();
+            displayCurrentCard();
+        }
+
+        function displayCurrentCard() {
+            const card = flashcards[currentIndex];
+            document.getElementById('word').textContent = card.word;
+            document.getElementById('pronunciation').textContent = card.pronunciation;
+            document.getElementById('definition').textContent = card.definition;
+            document.getElementById('example_sentence').textContent = card.example_sentence;
+            document.getElementById('sentence_translation').textContent = card.sentence_translation;
+            document.getElementById('notes').textContent = card.notes;
+        }
+
+        function playAudio(variant) {
+            const card = flashcards[currentIndex];
+            const audioUrl = `/audio/${card.word}_${variant}.wav`;
+            
+            // Add debug logging
+            console.log("Current card:", card);
+            console.log("Attempting to play audio from:", audioUrl);
+            
+            const audio = new Audio(audioUrl);
+            
+            audio.onerror = () => {
+                console.error(`Failed to load audio: ${audioUrl}`);
+                // Try to fetch the file directly to see the server response
+                fetch(audioUrl)
+                    .then(response => {
+                        console.log("Audio file fetch response:", response.status, response.statusText);
+                    })
+                    .catch(error => {
+                        console.error("Audio file fetch error:", error);
+                    });
+            };
+
+            audio.play().catch(error => {
+                console.error('Audio playback failed:', error);
+            });
+        }
+
+        function nextCard() {
+            currentIndex = (currentIndex + 1) % flashcards.length;
+            displayCurrentCard();
+        }
+
+        // Initialize
+        loadFlashcards();
+    </script>
+</body>
+</html> 

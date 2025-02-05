@@ -1,0 +1,112 @@
+[
+  {
+    "word": "o",
+    "pronunciation": "oo",
+    "definition": "Artigo definido masculino singular, usado para identificar algo específico em relação ao falante e ao ouvinte.",
+    "example_sentence": "O livro que você me emprestou é fascinante.",
+    "sentence_translation": "The book you lent me is fascinating.",
+    "notes": "In Portuguese, 'o' is the masculine singular definite article equivalent to 'the' in English. It's used before masculine singular nouns. It is common in both spoken and written language and is widely used in both Brazilian and European Portuguese with no significant differences.",
+    "audio_european": "/audio/o_european.wav",
+    "audio_brazilian": "/audio/o_brazilian.wav"
+  },
+  {
+    "word": "de",
+    "pronunciation": "djee",
+    "definition": "Usada para indicar posse, origem ou causa.",
+    "example_sentence": "O livro de João é muito interessante.",
+    "sentence_translation": "John's book is very interesting.",
+    "notes": "The preposition 'de' is frequently used in both formal and informal contexts and serves as a versatile connector in sentences. It denotes relationships, possession, origin, or cause. It is an important preposition in the Portuguese language and is equivalent to 'of' or 'from' in English. There is no significant difference in its usage across Brazilian and European Portuguese.",
+    "audio_european": "/audio/de_european.wav",
+    "audio_brazilian": "/audio/de_brazilian.wav"
+  },
+  {
+    "word": "e",
+    "pronunciation": "eh",
+    "definition": "Conjunção que indica adição entre frases ou elementos.",
+    "example_sentence": "Ela gosta de ler e escrever no seu tempo livre.",
+    "sentence_translation": "She likes to read and write in her free time.",
+    "notes": "'E' is a common conjunction used frequently in both spoken and written Portuguese. It's equivalent to the English word 'and.' The pronunciation is similar across Brazilian and European Portuguese.",
+    "audio_european": "/audio/e_european.wav",
+    "audio_brazilian": "/audio/e_brazilian.wav"
+  },
+  {
+    "word": "que",
+    "pronunciation": "keh",
+    "definition": "Que é uma palavra em português usada como pronome relativo ou como partícula interrogativa.",
+    "example_sentence": "A bicicleta que ele comprou é muito rápida.",
+    "sentence_translation": "The bicycle that he bought is very fast.",
+    "notes": "- **Common Usage**: Often used as a relative pronoun like 'that', 'which', or 'who'.\n- **Formality Level**: Neutral, suitable for both formal and informal contexts.\n- **Difference**: Usage is very similar in both Brazilian and European Portuguese.",
+    "audio_european": "/audio/que_european.wav",
+    "audio_brazilian": "/audio/que_brazilian.wav"
+  },
+  {
+    "word": "ser",
+    "pronunciation": "sehr",
+    "definition": "Verbo que indica existir ou possuir uma característica permanente.",
+    "example_sentence": "Ela quer ser médica no futuro.",
+    "sentence_translation": "She wants to be a doctor in the future.",
+    "notes": "'Ser' is one of the two main verbs for 'to be' in Portuguese, primarily used for permanent characteristics, time, professions, and defining things. It is highly irregular and essential in everyday conversation. In both European and Brazilian Portuguese, 'ser' functions similarly, though pronunciation may differ slightly.",
+    "audio_european": "/audio/ser_european.wav",
+    "audio_brazilian": "/audio/ser_brazilian.wav"
+  },
+  {
+    "word": "um",
+    "pronunciation": "oom",
+    "definition": "um determinante que indica singularidade ou especificidade em relação a um substantivo masculino",
+    "example_sentence": "Eu comprei um livro interessante na feira ontem.",
+    "sentence_translation": "I bought an interesting book at the fair yesterday.",
+    "notes": "'Um' is the masculine singular form for 'a' or 'an' in English. It may also mean 'one' depending on the context. It is used informally and formally across both Brazilian and European Portuguese, with no significant differences in usage.",
+    "audio_european": "/audio/um_european.wav",
+    "audio_brazilian": "/audio/um_brazilian.wav"
+  },
+  {
+    "word": "em",
+    "pronunciation": "eng",
+    "definition": "Uma preposição que indica local, tempo ou situação.",
+    "example_sentence": "Estou em casa agora e estou muito confortável.",
+    "sentence_translation": "I am at home now and I am very comfortable.",
+    "notes": "The preposition 'em' is commonly used to indicate location (at, in), time (on, in), or involvement in situations. It’s a very versatile preposition and quite frequently used in both European and Brazilian Portuguese. In spoken Brazilian Portuguese, it can sometimes sound similar to 'en'. It combines with definite articles to form contractions like 'no', 'na', 'nos', 'nas'.",
+    "audio_european": "/audio/em_european.wav",
+    "audio_brazilian": "/audio/em_brazilian.wav"
+  },
+  {
+    "word": "para",
+    "pronunciation": "pah-rah",
+    "definition": "Preposição utilizada para indicar direção, finalidade, ou propósito.",
+    "example_sentence": "Ela comprou flores para sua mãe.",
+    "sentence_translation": "She bought flowers for her mother.",
+    "notes": "Para is a common preposition in both Brazilian and European Portuguese. It is often used to indicate direction (going to a place), purpose (in order to), or recipient (for someone). It is informal and widely used in everyday conversation. In some contexts, particularly in spoken Brazilian Portuguese, 'pra' can be used as a contraction of 'para'.",
+    "audio_european": "/audio/para_european.wav",
+    "audio_brazilian": "/audio/para_brazilian.wav"
+  },
+  {
+    "word": "com",
+    "pronunciation": "kohm",
+    "definition": "Preposição usada para expressar companhia, união ou meio.",
+    "example_sentence": "Ela foi ao cinema com seus amigos.",
+    "sentence_translation": "She went to the cinema with her friends.",
+    "notes": "- 'Com' is commonly used in both formal and informal settings.\n- It is a preposition indicating company, union, or means.\n- There are no significant differences in usage between Brazilian and European Portuguese in this context.",
+    "audio_european": "/audio/com_european.wav",
+    "audio_brazilian": "/audio/com_brazilian.wav"
+  },
+  {
+    "word": "casa",
+    "pronunciation": "kah-zah",
+    "definition": "Local para morar, edifício ou construção usada como residência.",
+    "example_sentence": "Eles decidiram comprar uma nova casa no centro da cidade.",
+    "sentence_translation": "They decided to buy a new house in the city center.",
+    "notes": "1. Usage: 'Casa' is commonly used in both formal and informal contexts. 2. Common Phrases: 'Em casa' (at home), 'ir para casa' (to go home). 3. No significant difference between Brazilian and European Portuguese in terms of usage or meaning.",
+    "audio_european": "/audio/casa_european.wav",
+    "audio_brazilian": "/audio/casa_brazilian.wav"
+  },
+  {
+    "word": "casa",
+    "pronunciation": "kah-zah",
+    "definition": "Edifício ou construção destinada para habitação humana ou moradia.",
+    "example_sentence": "A Maria convidou seus amigos para um jantar na sua nova casa.",
+    "sentence_translation": "Maria invited her friends for dinner at her new house.",
+    "notes": "'Casa' is commonly used in both Brazilian and European Portuguese and is understood widely. Typically informal, it can be used to refer to any kind of home, from a small house to an imposing mansion. In phrases like 'ir para casa', meaning 'to go home', it shows its fundamental role as a basic vocabulary item.",
+    "audio_european": "/audio/casa_european.wav",
+    "audio_brazilian": "/audio/casa_brazilian.wav"
+  }
+]

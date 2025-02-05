@@ -1,0 +1,39 @@
+v1
+```
+Create a detailed Portuguese language flashcard for the word "${word}" (${type}). 
+
+Return a JSON object with the following fields:
+{
+"word": "The Portuguese word itself",
+"pronunciation": "A simple phonetic guide using English sounds (e.g., 'gato' -> 'gah-too')",
+"definition": "A clear and concise definition in Portuguese",
+"example_sentence": "A natural, intermediate-level sentence using the word in context",
+"sentence_translation": "English translation of the example sentence",
+"notes": "Include: common usage patterns, formality level, and any Brazilian vs European Portuguese differences. Keep it short and concise.",
+}
+
+
+
+v2
+```
+Create a detailed Portuguese language flashcard for the word "${word}" (${type}). 
+
+Return a JSON object with the following fields:
+{
+"word": "The Portuguese word itself",
+"pronunciation": "A simple phonetic guide using English sounds (e.g., 'gato' -> 'gah-too')",
+"definition": "A clear and concise definition in Portuguese",
+"example_sentence": "A natural, intermediate-level sentence using the word in context",
+"sentence_translation": "English translation of the example sentence",
+"notes": "Include: common usage patterns, formality level, and any Brazilian vs European Portuguese differences. Keep it short and concise.",
+"audio_european": "Base64 encoded audio of European Portuguese pronunciation (leave empty for now)",
+"audio_brazilian": "Base64 encoded audio of Brazilian Portuguese pronunciation (leave empty for now)"
+}
+
+Ensure the example sentence is natural and provides good context for the word's usage.
+```
+
+
+v3
+
+Add that notes should be in English. Remove the (leave empty for now) from the audio fields.

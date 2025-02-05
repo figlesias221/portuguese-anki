@@ -1,0 +1,90 @@
+PROMPT 1:
+
+```
+Create a Node.js script that uses axios to interact with the OpenAI API. 
+The script should take a Portuguese word as input and generate a JSON representation of an Anki flashcard. 
+The JSON should include fields for the word, pronunciation, definition, example sentence, sentence translation, notes, and optional audio fields. 
+Use template literals to insert the word into the API prompt.
+
+The words are in @portuguese-words.json it contiants a json with all the items, hich contian word and type.
+
+STEP2
+
+Once validated, that the answers are correct, switch to use openai JS SDK and take advantage of the zodResponseFormat to generate the flashcard.
+Also, specify the format of the response and some instructions on how to generate the information.
+```
+
+PROMPT 2:
+
+```
+Refactor the Node.js script to use the OpenAI JavaScript SDK instead of axios for interacting with the OpenAI API. Implement response validation using Zod to ensure the generated flashcard JSON adheres to the specified format.
+
+1. Use the OpenAI JavaScript SDK to make API calls.
+2. Define a Zod schema to validate the API response. 
+3. Specify the format of the response in the API prompt, and include instructions for generating the information accurately.
+4. Implement error handling for both API interactions and schema validation failures. Log any validation errors and handle them appropriately.
+5. Ensure the script reads words from "portuguese-words.json" and processes each word to generate and validate the flashcard JSON.
+
+Here you have the output format of the card:
+
+{
+  "word": "string", // The Portuguese word
+  "pronunciation": "string", // Pronunciation guide in English (e.g., "gato -> gah-too")
+  "definition": "string", // Definition in Portuguese
+  "example_sentence": "string", // Example sentence in Portuguese (intermediate complexity)
+  "sentence_translation": "string", // English translation of the example sentence
+  "notes": "string", // Usage notes, differences with Brazilian Portuguese, or other relevant information
+  "audio_european": "string", // (Bonus) Base64 encoded audio of the word in European Portuguese
+  "audio_brazilian": "string" // (Bonus) Base64 encoded audio of the word in Brazilian Portuguese
+}
+
+Example of OpenAI SDK with JS:
+
+import OpenAI from "openai";
+import { z } from "zod";
+import { zodResponseFormat } from "openai/helpers/zod";
+
+const openai = new OpenAI();
+
+const ResearchPaperExtraction = z.object({
+  title: z.string(),
+  authors: z.array(z.string()),
+  abstract: z.string(),
+  keywords: z.array(z.string()),
+});
+
+const completion = await openai.beta.chat.completions.parse({
+  model: "gpt-4o-2024-08-06",
+  messages: [
+    { role: "system", content: "You are an expert at structured data extraction. You will be given unstructured text from a research paper and should convert it into the given structure." },
+    { role: "user", content: "..." },
+  ],
+  response_format: zodResponseFormat(ResearchPaperExtraction, "research_paper_extraction"),
+});
+
+const research_paper = completion.choices[0].message.parsed;
+```
+
+PROMPT 3:
+
+Develop a simple microservice using Express in Node.js. 
+The service should expose a POST endpoint at "/generate-flashcard" that accepts a JSON request with a Portuguese word.
+Expose also a GET endpoint at "/flashcards" that returns the flashcards stored in the JSON DB file.
+Export also a POST endpoint at "/generate-flashcards-common-words" that generates flashcards for the words stored in the portuguese-words.json file.
+The endpoint should return a JSON response with the flashcard data generated using the OpenAI API and store the flashcard in the JSON DB file. 
+Include setup for express, middleware for JSON parsing, and error handling.
+
+PROMPT 4:
+
+```
+Create a simple index.html file that displays the flashcards and plays the audio. 
+
+The flashcards are in the JSON DB file.
+The audio files are in the public folder.
+The index.html should display the flashcards and play the audio when the user clicks on the play button.
+
+The index.html should be in the public folder.
+
+```
+
+NOTE: Apart from this prompts, I chated a couple of times with the Cursor chat to help me fix a couple of issues, but nothing too fancy.
