@@ -54,7 +54,7 @@ Get the output in the `flashcards_output/all_flashcards.json` file.
 
 ### Option 2:
 
-Run the server, that allows you to:
+Run the server with `npm run start`, that allows you to:
 
 ### Generate Flashcards for 1000 common Portuguese words
 
@@ -67,33 +67,6 @@ This will:
 - Read words from `portuguese-words.json`
 - Generate flashcards using GPT
 - Save the output in `flashcards_output/all_flashcards.json`
-
-Output Format
-
-Each flashcard contains:
-
-- Word
-- Pronunciation guide
-- Definition in Portuguese
-- Example sentence
-- English translation
-- Usage notes
-- Audio files for European and Brazilian Portuguese pronunciations
-
-Example output:
-
-```json
-{
-  "word": "casa",
-  "pronunciation": "kah-zah",
-  "definition": "Edificação destinada a ser utilizada como habitação humana.",
-  "example_sentence": "Minha casa é pequena, mas muito aconchegante.",
-  "sentence_translation": "My house is small, but very cozy.",
-  "notes": "• 'Casa' is a feminine noun. \n• Often used in everyday language, both in formal and informal contexts.",
-  "audio_european": "/audio/casa_european.wav",
-  "audio_brazilian": "/audio/casa_brazilian.wav"
-}
-```
 
 ### Generate Flashcards for a single word:
 
@@ -116,18 +89,6 @@ This will:
 
 - Read the `flashcards_output/all_flashcards.json` file
 - Return the flashcards in JSON format
-
-## API Server
-
-The application includes an Express server for API access:
-
-1. Start the server:
-
-```bash
-npm start
-```
-
-The server will run on port 3000 by default
 
 ## Configuration
 
