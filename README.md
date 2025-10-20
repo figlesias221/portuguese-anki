@@ -22,7 +22,7 @@ A Node.js application that generates Anki flashcards for Portuguese vocabulary u
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/portuguese-anki.git
+git clone https://github.com/figlesias221/portuguese-anki.git
 cd portuguese-anki
 ```
 
